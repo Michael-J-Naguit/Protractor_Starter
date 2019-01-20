@@ -1,0 +1,19 @@
+download and install java
+download and install node.js
+add paths to environment variables:
+	C:\Program Files\nodejs\
+	C:\Users\$User\AppData\Roaming\npm
+in CMD:
+	npm install -g protractor
+	webdriver-manager update
+	webdriver-manager --ignore_ssl update --ie64
+	webdriver-manager start
+download Eclipse IDE for Javascript
+at Help->Marketplace, search and install: AngularJS Eclipse
+	Right Click Project -> Configure -> convert to Tern Project -> Tick Protractor -> Apply
+	(Auto suggestion is now enabled; Ctrl+Space after dot)
+use Jasmine Framework
+	create spec1.js
+	create config.js
+	setup Run Configurations
+Copy protractor folder (C:\Users\$User\AppData\Roaming\npm\node_modules\protractor) to project folder
