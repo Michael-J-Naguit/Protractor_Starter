@@ -1,6 +1,6 @@
-describe('Protractor Alert steps',function()
+describe('Protractor Alert handling',function()
 {  
-	it('Open NonAngular js website Alerts',function()
+	it('Dismiss Alert',function()
 	{
 		browser.waitForAngularEnabled(false);
 		browser.get("http://qaclickacademy.com/practice.php");

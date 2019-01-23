@@ -1,6 +1,6 @@
-describe('Protractor Alert steps',function()
+describe('Protractor Frames handling',function()
 {  
-	it('Open NonAngular js website Alerts',function()
+	it('Switch to Frames',function()
 	{
 		//non-angular site
 		browser.waitForAngularEnabled(false);
