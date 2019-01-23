@@ -15,5 +15,5 @@ at Help->Marketplace, search and install: AngularJS Eclipse
 use Jasmine Framework
 	create spec1.js
 	create config.js
-	setup Run Configurations
+	setup Run Configurations (see screen shots)
 Copy protractor folder (C:\Users\$User\AppData\Roaming\npm\node_modules\protractor) to project folder
